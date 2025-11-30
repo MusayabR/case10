@@ -7,7 +7,7 @@ def test_risk_category():
 
 
 def test_csv_loads():
-    df = pd.read_csv("assets/medicalmalpractice.csv")
+    df = pd.read_csv("medicalmalpractice.csv")
     assert "Amount" in df.columns
     assert "Severity" in df.columns
     assert len(df) > 0

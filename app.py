@@ -4,7 +4,7 @@ import numpy as np
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv("assets/medicalmalpractice.csv")
+    df = pd.read_csv("medicalmalpractice.csv")
     return df
 
 def compute_risk_category(avg_payout, avg_severity, global_amount_median, max_severity):

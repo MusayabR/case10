@@ -96,4 +96,4 @@ my github repo: https://github.com/MusayabR/case10
 
 ## credits and license
 
-i used Chatgpt and cursor to assist in this project. It helped analyze how to approach this data base and what charts would work. It helped with coding the front end.
+i used Chatgpt and cursor to assist in this project. It helped analyze how to approach this data base and what charts would work. It helped with coding the front end and showing and teaching how to use streamlit.

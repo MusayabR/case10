@@ -89,3 +89,11 @@ Limitations can contain having no background jobs or async tasks to overload the
 Add heatmaps comparing specialties vs insurance types.
 
 Introduce time-series analysis (for example by filing year).
+
+## links
+
+my github repo: https://github.com/MusayabR/case10
+
+## credits and license
+
+i used Chatgpt and cursor to assist in this project. It helped analyze how to approach this data base and what charts would work. It helped with coding the front end.

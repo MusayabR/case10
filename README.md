@@ -19,6 +19,7 @@ The pipeline concepts applied would be:
 
 ## Architecture Diagram
 
+<img width="970" height="1446" alt="image" src="https://github.com/user-attachments/assets/f136fe44-bc7f-4f50-9bcb-ac7947e8e6d5" />
 
 ## Data sources
 

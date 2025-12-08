@@ -19,7 +19,6 @@ The pipeline concepts applied would be:
 
 ## Architecture Diagram
 
-(insert image here if you have one)
 
 ## Data sources
 
